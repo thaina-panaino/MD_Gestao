@@ -2,7 +2,7 @@
 
 **MD Gestão Enterprise é uma solução intuitiva desenvolvida em Python para micro e pequenas empresas. O sistema foca na agilidade do processo de venda, controle rigoroso de estoque e transparência financeira, tudo através de uma interface web moderna e funcional.**
 
-## 🎯 Motivação e Propósito
+## Propósito
 
 Este sistema nasceu da necessidade real da MP Personalizados de profissionalizar sua gestão. Antes da implementação, o negócio enfrentava desafios que dificultavam o crescimento, como a falta de controle de estoque (insumos e produtos), gestão de vendas manual, incerteza financeira (controle de pagamentos pendentes e "fiados") e a dificuldade em calcular o fluxo de caixa real.**
 
