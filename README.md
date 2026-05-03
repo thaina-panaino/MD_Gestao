@@ -18,33 +18,21 @@ Como objetivos Principais:
    - Business Intelligence: Dashboard para visualização de métricas (Ticket Médio, Vendas por Período).
    
 Stack Tecnológica escolhidas para o desenvolvimento do sistema:
-|-----------------------------------------------------------------------------| 
-| Área                 | Ferramenta         | Uso                             |
-|--------------------- | ------------------ | ------------------------------- |
-| Editor               | Visual Studio Code | desenvolver o sistema           |
-|-----------------------------------------------------------------------------| 
-| Linguagem            | Python             | linguagem principal             |
-|-----------------------------------------------------------------------------| 
-| Versionamento        | Git + GitHub       | controle de versões e portfólio |
-|-----------------------------------------------------------------------------| 
-| Banco de dados       | SQLite             | armazenar os dados              |
-|-----------------------------------------------------------------------------| 
-| Consulta banco       | SQL                | consultar dados do banco        |
-|-----------------------------------------------------------------------------| 
-| Manipulação de dados | Pandas             | tratar e analisar dados         |
-|-----------------------------------------------------------------------------| 
-| Matemática / base ML | NumPy              | cálculos numéricos              |
-|-----------------------------------------------------------------------------| 
-| Gráficos             | Matplotlib         | visualização de dados           |
-|-----------------------------------------------------------------------------| 
-| Machine Learning     | Scikit-learn       | modelos de previsão             |
-|-----------------------------------------------------------------------------| 
-| Exploração de dados  | Jupyter Notebook   | análise exploratória            |
-|-----------------------------------------------------------------------------| 
-| Dashboard            | Streamlit          | criar painel de dados           |
-|-----------------------------------------------------------------------------| 
-| Relatórios           | ReportLab          | gerar PDFs                      |
-|-----------------------------------------------------------------------------| 
+
+| Área | Ferramenta | Uso |
+| :--- | :--- | :--- |
+| **Editor** | Visual Studio Code | Desenvolver o sistema |
+| **Linguagem** | Python | Linguagem principal |
+| **Versionamento** | Git + GitHub | Controle de versões e portfólio |
+| **Banco de dados** | SQLite | Armazenar os dados |
+| **Consulta banco** | SQL | Consultar dados do banco |
+| **Manipulação de dados** | Pandas | Tratar e analisar dados |
+| **Matemática / base ML** | NumPy | Cálculos numéricos |
+| **Gráficos** | Matplotlib | Visualização de dados |
+| **Machine Learning** | Scikit-learn | Modelos de previsão |
+| **Exploração de dados** | Jupyter Notebook | Análise exploratória |
+| **Dashboard** | Streamlit | Criar painel de dados |
+| **Relatórios** | ReportLab | Gerar PDFs |
 
 oadmap de Desenvolvimento e Escalabilidade
 
